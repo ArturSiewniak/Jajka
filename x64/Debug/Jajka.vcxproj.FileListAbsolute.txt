@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\Jajka\x64\Debug\Jajka.exe
+C:\Users\Reaper\Desktop\QAP\cpp\Jajka\x64\Debug\Jajka.pdb
